@@ -28,11 +28,9 @@ FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度�
 <img src="pic/21a74c6d-cc7e-48e0-8987-15484341a1d4.png" width="300">
 
 ## 💡 界面展示
-<img src="pic/2d9af061-849f-43d5-ad92-f4dd77545f8d.png" width="800">
-<img src="pic/dbacc075-c3eb-44c9-a779-8bf82f912e05.png" width="800">
-<img src="pic/d3147caf-9076-4513-ba71-8aa789459c64.png" width="800">
-<img src="pic/a018ab47-4b3f-4a45-b9e3-30d03c88fb9c.png" width="800">
-<img src="pic/244e368f-9c3a-4494-9cb7-209879be942a.png" width="800">
+<img src="pic/5c435809-31a6-463c-a61b-a4dc3f50ab6e.png" width="800">
+<img src="pic/371f8900-e91d-485f-a283-ce1d24201e27.png" width="800">
+<img src="pic/9661fc27-fa4d-44e5-b562-a9450ed74986.png" width="800">
 <img src="pic/7e443ea7-1f5c-4a37-8abc-4ba5195bdf96.png" width="800">
 
 ## 🥳 投喂通道
