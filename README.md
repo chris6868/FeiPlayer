@@ -24,7 +24,9 @@ FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度�
     -   **资源扩展**：支持通过外部 URL 加载图标库，并提供代理加速功能优化资源加载。
 
 ## 💬 交流群
-telegram：[FeiPlayer交流群](https://t.me/feiplayer_chat)
+telegram：
+[FeiPlayer交流群](https://t.me/feiplayer_chat)
+![示例图](./21a74c6d-cc7e-48e0-8987-15484341a1d4.png)
 
 ## ✨ 界面展示
 ![示例图](./2d9af061-849f-43d5-ad92-f4dd77545f8d.png)
