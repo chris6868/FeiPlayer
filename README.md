@@ -8,17 +8,6 @@
 
 FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度一致的操作逻辑和优美的视觉体验。
 
-## 交流群
-telegram：[FeiPlayer交流群](https://t.me/feiplayer_chat)
-
-## ✨ 界面展示
-![示例图](./2d9af061-849f-43d5-ad92-f4dd77545f8d.png)
-![示例图](./dbacc075-c3eb-44c9-a779-8bf82f912e05.png)
-![示例图](./d3147caf-9076-4513-ba71-8aa789459c64.png)
-![示例图](./a018ab47-4b3f-4a45-b9e3-30d03c88fb9c.png)
-![示例图](./244e368f-9c3a-4494-9cb7-209879be942a.png)
-![示例图](./7e443ea7-1f5c-4a37-8abc-4ba5195bdf96.png)
-
 ## ✨ 核心功能
 
 -   **🎬 多源媒体聚合**
@@ -33,6 +22,17 @@ telegram：[FeiPlayer交流群](https://t.me/feiplayer_chat)
 -   **🛠️ 高度自由的定制化**
     -   **界面个性化**：支持深/浅色主题切换，侧边栏导航项可根据需求自由排序或隐藏。
     -   **资源扩展**：支持通过外部 URL 加载图标库，并提供代理加速功能优化资源加载。
+
+## 💬 交流群
+telegram：[FeiPlayer交流群](https://t.me/feiplayer_chat)
+
+## ✨ 界面展示
+![示例图](./2d9af061-849f-43d5-ad92-f4dd77545f8d.png)
+![示例图](./dbacc075-c3eb-44c9-a779-8bf82f912e05.png)
+![示例图](./d3147caf-9076-4513-ba71-8aa789459c64.png)
+![示例图](./a018ab47-4b3f-4a45-b9e3-30d03c88fb9c.png)
+![示例图](./244e368f-9c3a-4494-9cb7-209879be942a.png)
+![示例图](./7e443ea7-1f5c-4a37-8abc-4ba5195bdf96.png)
 
 ---
 
