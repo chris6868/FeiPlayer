@@ -37,9 +37,9 @@ FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度�
 
 ## 🥳 投喂通道
 <p>
-  <img src="21a74c6d-cc7e-48e0-8987-15484341a1d4.png" width="200" alt="微信支付" />
+  <img src="d1bfdc92-15d8-48a2-8cad-d2b7ad72ea4d.png" width="200" alt="微信支付" />
   <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="40" height="1" />
-  <img src="21a74c6d-cc7e-48e0-8987-15484341a1d4.png" width="200" alt="支付宝" />
+  <img src="e5ba8460-72a4-43db-a9d1-5e2a1c2c5d9f.png" width="200" alt="支付宝" />
 </p>
 
 
