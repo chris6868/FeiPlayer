@@ -9,7 +9,7 @@
 FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度一致的操作逻辑和优美的视觉体验。
 
 ## 交流群
-telegram：https://t.me/+tLj7ZSfC0YRjZjhl
+telegram：[FeiPlayer交流群](https://t.me/feiplayer_chat)
 
 ## ✨ 界面展示
 ![示例图](./2d9af061-849f-43d5-ad92-f4dd77545f8d.png)
