@@ -37,9 +37,14 @@ FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度�
 
 ## 🥳 投喂通道
 <p>
-  <img src="d1bfdc92-15d8-48a2-8cad-d2b7ad72ea4d.png" width="200" alt="微信支付" />
-  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="40" height="1" />
-  <img src="e5ba8460-72a4-43db-a9d1-5e2a1c2c5d9f.png" width="200" alt="支付宝" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span style="font-size: 26px;">通过微信投喂</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span style="font-size: 26px;">通过支付宝投喂</span>
+    <br/>
+    <img src="a2cf96ab-f4ba-4b34-b92b-14210fd86f69.png" width="200" height="200" alt="微信支付"/>
+    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="40" height="1" />
+    <img src="03e74a53-47ab-48bb-b35b-09d747970605.png" width="200" height="200" alt="支付宝"/>
 </p>
 
 
