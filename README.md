@@ -34,7 +34,7 @@ FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度�
 <img src="pic/3db738c8-268a-4b93-86eb-f0e03867d61d.png" width="800">
 <img src="pic/7e443ea7-1f5c-4a37-8abc-4ba5195bdf96.png" width="800">
 
-## 🥳 投喂通道
+## 🍽️ 投喂通道
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <span style="font-size: 26px;">通过微信投喂</span>
@@ -46,10 +46,10 @@ FeiPlayer 将提供全平台的支持，在移动端和桌面端实现了高度�
     <img src="pic/66fec56e-b6c6-409e-8254-4af5c32e2ff4.png" width="200" height="200" alt="支付宝"/>
 </p>
 
-## 许可证
-[MIT](https://github.com/chris6868/FeiPlayer)
+## 🪪 许可证
+[MIT](https://github.com/chris6868/FeiPlayer/blob/main/LICENSE)
 
-## 免责声明
+## ⚠️ 免责声明
 本项目仅供个人学习和研究使用。使用本项目即表示您同意：
 
 不将本项目用于任何商业用途<br/>
